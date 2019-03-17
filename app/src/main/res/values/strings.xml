@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">All-In-One-Tutorials</string>
+    <string name="HelloWorld">Hello World!!!</string>
+    <string name="title_activity_dialogs">DialogsActivity</string>
+    <string name="hintEdtData">Enter you details</string>
+    <string name="lableClickhere">Click Me !!!</string>
+    <string name="next"><![CDATA[Next  >>>]]></string>
+    <string name="buttonName">Result</string>
+    <string name="imgdescription">Sample Image</string>
+    <string name="blancktab">   </string>
+    <string name="btnAlertDialog">Alert Dialog</string>
+    <string name="btnTimeDialog">Time Dialog</string>
+    <string name="btnProgressDialog">Progress Dialog</string>
+    <string name="btnCustomDialog">Custom Dialog</string>
+    <string name="btnDateDialog">Date Dialog</string>
+    <string name="username">Username</string>
+    <string name="usernamehint">Username must be email address or your username</string>
+    <string name="inputUsername">Enter Username here !</string>
+    <string name="password">Password</string>
+    <string name="inputPassword">Enter Password here !</string>
+
+</resources>
